@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meetjess
-- 👀 I’m interested in software and game development
+- 👀 I’m interested in front end engineering and game development
 - 🌱 I’m currently learning pretty much everything from scratch
-- 💞️ I’m looking to collaborate on practically anything, but especially games
 - 📫 How to reach me: linkedin @ https://www.linkedin.com/in/jess-abad/
 
 <!---
